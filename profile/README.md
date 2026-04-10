@@ -1,57 +1,59 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/210f54b6-8c15-4622-a0b0-0f32b407203d" width="200" alt="STalk Logo"/>
+<img src="https://github.com/user-attachments/assets/35e49767-945f-40e6-ae5a-623b691d7966" alt="STalk Logo"/>
 
-<br>
+<br><br>
 
-<p><i>실시간 주식 정보와 종목별 채팅을 한 곳에서</i></p>
-
-<br>
-
-[![바로가기](https://img.shields.io/badge/🚀_바로가기-s--talk.vercel.app-10a875?style=flat)](https://s-talk.vercel.app/)
+<a href="https://s-talk.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_바로가기-s--talk.vercel.app-10a875?style=for-the-badge" height="35"/>
+</a>
 &nbsp;
-![기간](https://img.shields.io/badge/📅_기간-2026.03.01_~_2026.03.31-2c3e50?style=flat)
-
+<img src="https://img.shields.io/badge/📅_기간-2026.03.01_~_2026.03.31-2c3e50?style=for-the-badge" height="35"/>
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14&height=1.5&section=header" width="100%"/>
 
-<br>
 
 ## 📌 서비스 소개
 
-> **STalk**은 **실시간 주식 시세**와 **시장 지수**를 확인하고, **관심 종목**을 관리하며
-> 같은 종목에 관심 있는 사용자들과 **실시간으로 소통**할 수 있는 주식 커뮤니티 플랫폼입니다.
->
-> **카카오 소셜 로그인**으로 간편하게 시작할 수 있으며,
-> **한국투자증권 API**를 통해 국내 주요 종목의 실시간 시세를 제공합니다.
+> ### 💡 **STalk**은 실시간 주식 정보와 소통이 결합된 커뮤니티입니다.
+> 
+> * **실시간 시세 확인** : 한국투자증권 API 연동, 국내 주요 종목 시세 및 시장 지수 제공
+> * **커뮤니티 활성화** : 같은 종목을 보는 사용자들과 실시간 채팅 및 정보 공유
+> * **간편한 시작** : 카카오 소셜 로그인을 통한 빠르고 편리한 서비스 이용
 
 <br>
 
 ## 👥 팀원
 
-<div align="center">
 <table>
   <tr>
-    <td align="center" width="200">
+    <td width="200">
       <a href="https://github.com/Lseojeong">
-        <img src="https://avatars.githubusercontent.com/u/112802701?v=4" width="120" style="border-radius:50%"/><br/><br/>
-        <b>이서정</b><br/>
-        <img src="https://img.shields.io/badge/Frontend-61DAFB?style=flat&logo=react&logoColor=black"/>
+        <img src="https://avatars.githubusercontent.com/u/112802701?v=4" width="100%"/>
       </a>
     </td>
-    <td align="center" width="200">
+    <td width="200">
       <a href="https://github.com/yong203">
-        <img src="https://avatars.githubusercontent.com/u/183721396?v=4" width="120" style="border-radius:50%"/><br/><br/>
-        <b>이한용</b><br/>
-        <img src="https://img.shields.io/badge/Backend-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+        <img src="https://avatars.githubusercontent.com/u/183721396?v=4" width="100%"/>
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td align="center">
+    <a href="https://github.com/Lseojeong">
+      이서정
+    </a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/yong203">
+      이한용
+    </a>
+    </td>
+  </tr>
 </table>
-</div>
 
 <br>
 
@@ -70,39 +72,38 @@
 
 ## 🖥️ 화면
 
-<details>
-<summary><b>메인</b> — 시장 지수 · 종목 랭킹 한눈에 확인</summary>
-<br>
+1. 메인 페이지
 <div align="center">
 <img alt="메인" src="https://github.com/user-attachments/assets/4b991b0c-5f43-4136-b7e2-d45cd687880c" width="100%"/>
+<p align="center"><i>▲ 시장 지수 및 등락률 기준 종목 랭킹을 한눈에 확인할 수 있는 메인 화면</i></p>
 </div>
-</details>
 
-<details>
-<summary><b>전체 종목</b> — 국내 주요 종목 전체 목록 조회</summary>
-<br>
+<hr style="border: 1px solid #e1e4e8;">
+
+2. 전체 종목 리스트
 <div align="center">
 <img alt="전체 종목" src="https://github.com/user-attachments/assets/0642f785-da47-4cc1-8986-f9b1eeec120a" width="100%"/>
+<p align="center"><i>▲ 서비스에서 제공하는 모든 국내 주요 종목을 탐색할 수 있는 목록</i></p>
 </div>
-</details>
 
-<details>
-<summary><b>관심 종목</b> — 즐겨찾기한 종목만 모아보기</summary>
-<br>
+<hr style="border: 1px solid #e1e4e8;">
+
+3. 관심 종목 관리
 <div align="center">
 <img alt="관심 종목" src="https://github.com/user-attachments/assets/b11e82b2-2b21-4514-872f-3de22ce4e6cd" width="100%"/>
+<p align="center"><i>▲ 사용자가 즐겨찾기한 종목들만 모아서 실시간 시세를 모니터링</i></p>
 </div>
-</details>
 
-<details>
-<summary><b>채팅방</b> — 종목별 실시간 채팅 · 접속자 수 표시</summary>
-<br>
+<hr style="border: 1px solid #e1e4e8;">
+
+4. 실시간 채팅방
 <div align="center">
 
-<!-- 추후 추가 예정 -->
 
+<p align="center"><b>(추후 업데이트 예정)</b></p>
+<p align="center"><i>▲ 종목별 실시간 소통 및 접속자 수 확인 기능</i></p>
 </div>
-</details>
+
 
 <br>
 
