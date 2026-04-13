@@ -90,7 +90,7 @@
 
 3. 관심 종목 관리
 <div align="center">
-<img alt="관심 종목" src="https://github.com/user-attachments/assets/b11e82b2-2b21-4514-872f-3de22ce4e6cd" width="100%"/>
+<img alt="관심 종목" src="https://github.com/user-attachments/assets/0064180c-32f3-4a5b-a2d6-e3e94d1dc187" width="100%"/>
 <p align="center"><i>▲ 사용자가 즐겨찾기한 종목들만 모아서 실시간 시세를 모니터링</i></p>
 </div>
 
