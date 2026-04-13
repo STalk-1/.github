@@ -98,9 +98,7 @@
 
 4. 실시간 채팅방
 <div align="center">
-
-
-<p align="center"><b>(추후 업데이트 예정)</b></p>
+<img alt="관심 종목" src="https://github.com/user-attachments/assets/5246b1b7-3f42-43ae-91e0-f5f11018363b" width="100%"/>
 <p align="center"><i>▲ 종목별 실시간 소통 및 접속자 수 확인 기능</i></p>
 </div>
 
